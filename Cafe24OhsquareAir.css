@@ -1,0 +1,9 @@
+@charset "utf-8";
+
+@font-face {
+    font-family: "Cafe24OhsquareAir";
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+    src: local("Cafe24OhsquareAir"), url("Cafe24OhsquareAir-v2.0.woff2") format("woff2"), url("Cafe24OhsquareAir-v2.0.woff") format("woff"), url("Cafe24OhsquareAir-v2.0.ttf") format("truetype"), url("Cafe24OhsquareAir-v2.0.otf") format("opentype");
+}
